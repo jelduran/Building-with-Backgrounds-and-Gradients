@@ -12,11 +12,7 @@ body {
 
 #home-main {
   display: flex;
-  position: absolute;
   min-height: 538px;
-  top: 0;
-  right: 0;
-  left: 0;
   padding: 0;
   justify-content: center;
 }
@@ -232,10 +228,34 @@ body {
   align-content: flex-start;
   width: 1440px;
   max-width: 1440px;
-  position: absolute;
-  top: 0;
-  bottom: 0;
   background: url(../img/your_verse_hero.jpg) 50% 100% no-repeat;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 1440px;
+  min-width: 1024px;
+  height: 200px;
+}
+
+.card {
+  width: 25%;
+  height: 200px;
+  margin: 0;
+  border: solid 2px #fff;
+  overflow: hidden;
+}
+
+.card:first-child {
+  border-left-style: none;
+  border-right-style: none;
+}
+
+.card:last-child {
+  border-left-style: none;
+  border-right-style: none;
 }
 
 /* Footer */
