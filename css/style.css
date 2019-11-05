@@ -9,7 +9,8 @@ html,
 body {
   height: 100%;
   font-size: 12px;
-  font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+  font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial,
+    Verdana, sans-serif;
 }
 
 .hidden {
@@ -20,7 +21,9 @@ a {
   color: #08c;
 }
 
-a:link, a:visited, a:active {
+a:link,
+a:visited,
+a:active {
   text-decoration: none;
 }
 
@@ -43,7 +46,8 @@ a:hover {
   width: 980px;
   min-width: 980px;
   margin-top: 83px;
-  background: -webkit-gradient(
+  background:
+    -webkit-gradient(
       linear,
       0 0,
       0 100%,
@@ -293,9 +297,9 @@ a:hover {
   width: 980px;
   min-width: 980px;
   min-height: 90px;
-  padding: 1em 0 2.6em;  
-  color: #6e6e6e;  
-  font-size: .8334em !important;  
+  padding: 1em 0 2.6em;
+  color: #6e6e6e;
+  font-size: 0.8334em !important;
   line-height: 1.2 !important;
 }
 
@@ -315,15 +319,15 @@ a:hover {
 
 .piped > li:first-child {
   margin-left: 0;
-  padding-left: 0;  
+  padding-left: 0;
   border-left: none;
   display: inline-block;
 }
 
 .piped > li:last-child {
   position: relative;
-  z-index: 1;  
-  width: 16px;  
+  z-index: 1;
+  width: 16px;
   height: 12px;
 }
 
