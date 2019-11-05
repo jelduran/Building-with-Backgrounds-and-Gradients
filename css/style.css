@@ -12,6 +12,10 @@ body {
   font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
 }
 
+.hidden {
+  display: none;
+}
+
 a {
   color: #08c;
 }
@@ -219,7 +223,7 @@ a:hover {
 }
 
 .cover-title {
-  margin-bottom: -12px;
+  margin-bottom: -16px;
 }
 
 .cover-sub-title {
