@@ -19,4 +19,4 @@ This project consists of building a webpage using images and gradients as backgr
 
 John Elvis Durán, Students of Microverse.
 
-**[Live Version](https://raw.githack.com/jelduran/Building-with-Backgrounds-and-Gradients/feature/index.html)**
+**[Live Version](https://gitcdn.xyz/repo/jelduran/Building-with-Backgrounds-and-Gradients/feature/index.html)**
