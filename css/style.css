@@ -8,7 +8,7 @@
 html,
 body {
   height: 100%;
-  font-size: 12px/18px;
+  font-size: 12px;
   font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
 }
 
@@ -100,7 +100,6 @@ a:hover {
   border-width: 0 2px 0 1px;
   outline: none;
   border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F%2BKwQEADZUCf37PGokAAAAASUVORK5CYII%3D") 0 2 0 1;
-  -webkit-border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F%2BKwQEADZUCf37PGokAAAAASUVORK5CYII%3D") 0 2 0 1;
   overflow: hidden;
   text-indent: -9999px;
   cursor: pointer;
@@ -170,7 +169,6 @@ a:hover {
   background: none;
   border-width: 0 2px 0 1px;
   border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAADUlEQVQIHWP4r8YABgAJCwEmqyi5lgAAAABJRU5ErkJggg%3D%3D") 0 2 0 1;
-  -webkit-border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAADUlEQVQIHWP4r8YABgAJCwEmqyi5lgAAAABJRU5ErkJggg%3D%3D") 0 2 0 1;
   box-sizing: content-box;
 }
 
